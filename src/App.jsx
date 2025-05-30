@@ -256,7 +256,6 @@ function App() {
                 <p>
                     &copy; {new Date().getFullYear()} Digital Rain Visualizer. Yesu Kumar All rights reserved.
                 </p>
-                <p>Inspired by the iconic matrix digital rain.</p>
             </footer>
         </div>
     );
